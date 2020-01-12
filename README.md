@@ -1,4 +1,4 @@
-# house-prices-advanced-regression-techniques
+# House-Prices-Prediction
 
 This Kaggle competition's dataset provides factors that influence price negotiations.
 With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenges one to predict the final price of each home.
